@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/nuevo" android:title="@string/nuevoMenuItem"></item>
+    <item android:id="@+id/acerca" android:title="@string/acercaMenuItem"></item>
+    <item android:id="@+id/ordenar" android:title="@string/ordernarMenuItem"></item>
+    <item android:id="@+id/exportar" android:title="@string/exportarMenuItem"></item>
+    <item android:id="@+id/importar" android:title="@string/importarMenuItem"></item>
+</menu>

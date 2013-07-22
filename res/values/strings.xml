@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minerales</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nombreMineralST">Nombre Mineral</string>
+    <string name="durezaST">DUREZA</string>
+    <string name="composicionST">Composición</string>
+    <string name="fechaST">Fecha</string>
+    <string name="disponibilidadST">D</string>
+    <string name="notasST">N</string>
+    <string name="valorDurezaST">10</string>
+    <string name="nombreLB">Nombre</string>
+    <string name="composicionLB">Composición</string>
+    <string name="disponibilidadLB">Disponibilidad</string>
+    <string name="notasLB">Notas</string>
+    <string name="fechaLB">Fecha</string>
+    <string name="durezaLB">Dureza</string>
+    <string name="dispNoLB">NO</string>
+    <string name="dispSiLB">SI</string>
+    <string name="dispToggleBT">toggleBT</string>
+    <string name="guardarLB">GUARDAR</string>
+    <string name="nuevoMenuItem">NUEVO</string>
+    <string name="acercaMenuItem">Acerca de</string>
+    <string name="ordernarMenuItem">Ordenar por</string>
+    <string name="exportarMenuItem">Exportar</string>
+    <string name="importarMenuItem">Importar</string>
+
+</resources>

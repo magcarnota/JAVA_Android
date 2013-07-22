@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS minerales(_id INTEGER PRIMARY KEY AUTOINCREMENT, nombre TEXT NOT NULL, composicion TEXT NOT NULL, disponibilidad INTEGER, dureza INTEGER NOT NULL, fecha LONG, notas TEXT);
+INSERT INTO minerales VALUES(1, 'Calcita', 'CaCO3', 0, 3, "01-12-2010", 'Notas para la Calcita');
+INSERT INTO minerales VALUES(2, 'Apatito', 'Ca5(PO4)3(OH-,CL-,F-)', 1, 5, "15-06-2012", 'Notas para el Apatito');
+INSERT INTO minerales VALUES(3, 'Ortosa', 'KAISi3O8', 1, 6, "22-10-2011", "");
+INSERT INTO minerales VALUES(4, 'Yeso', 'CaSO4-2H2O', 0, 2, "13-04-2009", "");
+INSERT INTO minerales VALUES(5, 'Cuarzo', 'SiO2', 1, 7, "30-01-2013", 'Notas para el Cuarzo');
